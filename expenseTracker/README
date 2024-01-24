@@ -1,0 +1,3 @@
+pip install tabulate
+
+#  display expenses in a tabular format
