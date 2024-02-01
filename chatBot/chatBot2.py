@@ -10,7 +10,7 @@ def simple_chatbot(user_input):
     elif 'bye' in user_input.lower():
         return "Goodbye! Have a great day."
     else:
-        return "I'm sorry, I didn't understand that."
+        return "Sorry, I didn't understand that."
 
 while True:
     user_input = input("You: ")
